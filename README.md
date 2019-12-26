@@ -2,6 +2,12 @@
 
 website source files in USTC Student FTP/WWW Server
 
+## v2.2.1
+
+### upate 2019-12-26
+
+修改顶部导航栏的显示模式，在上拉时才显示；详细博客的布局优化。
+
 ## v2.2.0
 
 ### upate 2019-10-9

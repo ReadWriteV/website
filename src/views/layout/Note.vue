@@ -37,6 +37,12 @@ export default {
       reverse: false,
       activities: [
         {
+          title: 'v2.2.1',
+          content: '修改顶部导航栏的显示模式，在上拉时才显示；详细博客的布局优化。',
+          timestamp: '2019-12-26',
+          color: '#67C23A'
+        },
+        {
           title: 'v2.2.0',
           content: '完成单一博客内容在一页面单独显示。',
           timestamp: '2019-10-9',

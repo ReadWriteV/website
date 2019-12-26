@@ -17,7 +17,7 @@
               <span class="el-icon-user" title="作者">：{{blog.author}}</span><span class="el-icon-time" title="发布时间">：{{ blog.time }}</span>
             </div>
             <el-divider></el-divider>
-            <p style="text-indent: 36px; line-height: 1.5;">{{ blog.content }}</p>
+            <p style="text-indent: 36px; line-height: 1.5; min-height: 500px;">{{ blog.content }}</p>
             <el-divider content-position="right">文字来源于中国科学技术大学历史文化网</el-divider>
             <el-divider></el-divider>
             <div style="text-align: right;">
