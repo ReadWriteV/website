@@ -11,22 +11,27 @@
               ></el-image>
           </div>
         </el-col>
-        <el-col :xs="3" :sm="3" :md="3" :lg="3" :xl="3">
+        <el-col :xs="2" :sm="2" :md="2" :lg="2" :xl="2">
           <div class="nav-item">
             <router-link class="no-underline" :to="{name: 'main'}">首页</router-link>
           </div>
         </el-col>
-        <el-col :xs="3" :sm="3" :md="3" :lg="3" :xl="3">
+        <el-col :xs="2" :sm="2" :md="2" :lg="2" :xl="2">
+          <div class="nav-item">
+            <router-link class="no-underline" :to="{name: 'epidemicMap'}">疫情地图</router-link>
+          </div>
+        </el-col>
+        <el-col :xs="2" :sm="2" :md="2" :lg="2" :xl="2">
           <div class="nav-item">
             <router-link class="no-underline" :to="{name: 'blog'}">博客</router-link>
           </div>
         </el-col>
-        <el-col :xs="3" :sm="3" :md="3" :lg="3" :xl="3">
+        <el-col :xs="2" :sm="2" :md="2" :lg="2" :xl="2">
           <div class="nav-item">
             <router-link class="no-underline" :to="{name: 'download'}">下载</router-link>
           </div>
         </el-col>
-        <el-col :xs="3" :sm="3" :md="3" :lg="3" :xl="3">
+        <el-col :xs="2" :sm="2" :md="2" :lg="2" :xl="2">
           <div class="nav-item">
             <router-link class="no-underline" :to="{name: 'note'}">日志</router-link>
           </div>

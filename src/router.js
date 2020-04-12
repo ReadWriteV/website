@@ -24,11 +24,19 @@ const router = new Router({
       path: '/home',
       name: 'home',
       component: () => import('./views/layout/Home.vue'),
+      redirect: {
+        name: 'main'
+      },
       children: [
         {
           path: 'main',
           name: 'main',
           component: () => import('./views/layout/Main.vue')
+        },
+        {
+          path: 'epidemicMap',
+          name: 'epidemicMap',
+          component: () => import('./views/layout/EpidemicMap.vue')
         },
         {
           path: 'blog',
