@@ -2,6 +2,12 @@
 
 website source files in USTC Student FTP/WWW Server
 
+## v2.2.2
+
+### upate 2020-4-12
+
+增加全国疫情地图页面。
+
 ## v2.2.1
 
 ### upate 2019-12-26

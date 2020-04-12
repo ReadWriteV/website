@@ -37,6 +37,12 @@ export default {
       reverse: false,
       activities: [
         {
+          title: 'v2.2.2',
+          content: '增加全国疫情地图页面。',
+          timestamp: '2020-4-12',
+          color: '#67C23A'
+        },
+        {
           title: 'v2.2.1',
           content: '修改顶部导航栏的显示模式，在上拉时才显示；详细博客的布局优化。',
           timestamp: '2019-12-26',
