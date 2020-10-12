@@ -1,6 +1,6 @@
 # website
 
-website source files in USTC Student FTP/WWW Server
+> 个人练习 *Vue*、*Element-UI* 等框架的小项目。
 
 ## v2.2.2
 
